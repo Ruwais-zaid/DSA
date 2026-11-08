@@ -11,12 +11,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ruwais-zaid/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Ruwais-zaid/DSA/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ruwais-zaid/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Ruwais-zaid/DSA/tree/master/0085-maximal-rectangle) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ruwais-zaid/DSA/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Ruwais-zaid/DSA/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Ruwais-zaid/DSA/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Ruwais-zaid/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
