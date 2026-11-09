@@ -7,11 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ruwais-zaid/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0087-scramble-string](https://github.com/Ruwais-zaid/DSA/tree/master/0087-scramble-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ruwais-zaid/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Ruwais-zaid/DSA/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Ruwais-zaid/DSA/tree/master/0087-scramble-string) |
 ## Stack
 |  |
 | ------- |
